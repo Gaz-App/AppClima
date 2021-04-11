@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">AppClima</string>
+
+    <string name="txt_grados">27º</string>
+    <string name="txt_ciudad">Ciudad de Querétaro</string>
+    <string name="txt_status">Soleado</string>
+
+    <string name="txt1">Bienvenido...Seleciona una Ciudad</string>
+    <string name="btn_qro">Clima de la Cd. Querétaro</string>
+    <string name="btn_cdmx">Clima de la Cd. México</string>
+
+</resources>
